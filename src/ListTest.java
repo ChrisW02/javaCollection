@@ -30,7 +30,4 @@ public class ListTest {
             System.out.println("学生：" + st.id + ":" + st.name);
         }
     }
-
-    public void testIterator
-
 }
